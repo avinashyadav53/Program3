@@ -1,4 +1,3 @@
-package student;
 
 public class Basicoperation {
     public static void main(String[] args) {
