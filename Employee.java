@@ -1,4 +1,4 @@
-package program3;
+
 public class Employee {
     private String name;
     private int id;
@@ -9,6 +9,7 @@ public class Employee {
         this.name = name;
         this.id = id;
         this.salary = salary;
+        this.department=department;
     public void dispay() {
         System.out.println("Employee Name: " + name);
         System.out.println("Employee ID: " + id);
